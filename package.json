@@ -1,7 +1,7 @@
 {
   "name": "ark-website",
   "version": "0.1.0",
-  "homepage": "https://github.com/john9088/ARK-Website-Demo/",
+  "homepage": "https://github.com/john9088/ARK-Website-Demo",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",

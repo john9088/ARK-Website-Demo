@@ -4,7 +4,7 @@ const Home = () => {
     return(
         <section id="home">
             <div id="intro" className="intro">
-            <img src="ark-dark.png" alt="" className="land_img" />
+            <img src="ARK-Website-Demo/ark-dark.png" alt="" className="land_img" />
             <div className="hero-content">
           <h1>Ark<span style={{color: "#e9322e"}}> Energy</span>,</h1>
 

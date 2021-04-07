@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/john9088/ARK-Website-Demo/static/js/main.5863b3ab.chunk.js",
+    "main.js.map": "/john9088/ARK-Website-Demo/static/js/main.5863b3ab.chunk.js.map",
+    "runtime-main.js": "/john9088/ARK-Website-Demo/static/js/runtime-main.a84bc87a.js",
+    "runtime-main.js.map": "/john9088/ARK-Website-Demo/static/js/runtime-main.a84bc87a.js.map",
+    "static/js/2.cd7a8db3.chunk.js": "/john9088/ARK-Website-Demo/static/js/2.cd7a8db3.chunk.js",
+    "static/js/2.cd7a8db3.chunk.js.map": "/john9088/ARK-Website-Demo/static/js/2.cd7a8db3.chunk.js.map",
+    "index.html": "/john9088/ARK-Website-Demo/index.html",
+    "static/js/2.cd7a8db3.chunk.js.LICENSE.txt": "/john9088/ARK-Website-Demo/static/js/2.cd7a8db3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a84bc87a.js",
+    "static/js/2.cd7a8db3.chunk.js",
+    "static/js/main.5863b3ab.chunk.js"
+  ]
+}
